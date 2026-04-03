@@ -202,10 +202,7 @@ python evaluate.py \
 
 ---
 
-## 🎧 Demo & Results
-
-Live Demo:
-[https://niranjankumarnk.github.io/Text-to-Music.github.io/](https://niranjankumarnk.github.io/Text-to-Music.github.io/)
+## 🎧 Results
 
 Example Outputs:
 
